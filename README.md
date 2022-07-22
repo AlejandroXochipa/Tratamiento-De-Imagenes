@@ -10,4 +10,5 @@ Especificaciones:
 -Dentro de la seleccion de filtros de frecuencia en la opcion de "punto extra", se hace referencia a un filtro para la mejoria de una radiografia y se pueda apreciar 
  mucho mejor los detalles en la imagen. Se utilizo un filtro de ruidoGaussiano para la eliminacion de impurezas dentro de la imagen. La imagen obtenida del resultado
  de aplicar el filtro se reduce en un 25%, esto se da porque se trabaja con la transformada de Laplace.
--La libreria que se utiliza para la interfaz 
+-La libreria que se utiliza para la interfaz se llama jul-swing
+-Se utiliza jFreeChart para la obtencion del histograma
